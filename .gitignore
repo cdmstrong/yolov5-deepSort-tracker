@@ -1,0 +1,13 @@
+*.mp4
+!*.txt
+!*.jpg
+!requirements*
+!Dockerfile*
+!*.sh
+/video
+data/user.*/
+trainner/*
+video/*.mp4
+weights
+*.t7
+*.pt
